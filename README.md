@@ -5,6 +5,7 @@
 - 📫 How to reach me nhat.le1032002@hcmut.edu.vn  
 
 Here are my projects, hope you will be interested what i did:
+- Assignment: Predicting outcome of soccer matches using ML algorithms.
 - Project1: ANTENNAS ARRAY FOR INTERFERENCES CANCELLATION
 - Project2: INTERFERENCES CANCELLATION IN COMMUNICATION SYSTEM USING LCMV & GSC ALGORITHMS
 - Capstone Project: IMPROVING INTERFERENCES CANCELLATION IN COMMUNICATION SYSTEMS USING GSC ALGORITHMS AND NEURAL NETWORKS 
