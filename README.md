@@ -1,7 +1,7 @@
-- 👋 Hi, I’m LeDucMinhNhat
-- 👀 I’m interested in AI/Machine Learning
-- 🌱 I’m currently learning Bachelor of Electricals - Electronics Engineering in Ho Chi Minh city University of Technology
-- 💞️ I’m looking to collaborate on AI/Machine Learning projects to gain my experience
+- 👋 Hi, I’m LeDucMinhNhat, 22 years old.
+- 👀 I’m interested in Telecommunication System and AI/Machine Learning.
+- 🌱 I’m currently learning Bachelor of Electricals - Electronics Engineering in Ho Chi Minh city University of Technology.
+- 💞️ I’m looking to collaborate on AI/Machine Learning projects to gain my experience.
 - 📫 How to reach me nhat.le1032002@hcmut.edu.vn  
 
 Here are my projects, hope you will be interested what i did:
